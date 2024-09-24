@@ -20,7 +20,7 @@ Habilidades:  REACT / JS / HTML / CSS / PHP / NODE JS
 ✅ JavaScript <br/>
 ✅ PHP<br/>
 ✅ HTML5 / CSS3 / SASS / Bootstrap<br/><br/>
-✅ Node js<br/>
+✅ Node js
 
 
 ### 📧 For Business Inquiries
