@@ -19,9 +19,12 @@ Habilidades:  REACT / JS / HTML / CSS / PHP / NODE JS
 ✅ WordPress <br/>
 ✅ JavaScript <br/>
 ✅ PHP<br/>
-✅ HTML5 / CSS3 / SASS / Bootstrap<br/>
-✅ Photoshop / Illustrator<br/>
+✅ HTML5 / CSS3 / SASS / Bootstrap<br/><br/>
+✅ Node js<br/>
 
+
+### 📧 For Business Inquiries
+✅ ► shamimhasan019sm@gmail.com
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/Mohamed-Shamim)](https://github.com/ryo-ma/github-profile-trophy)
