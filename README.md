@@ -1,7 +1,10 @@
-### Hola 👋, I'm Mohmed Shamim
+### Hi, I'm Mohamed Shamim 👋
 ![Web developer ](https://pbs.twimg.com/profile_banners/1838488967853092864/1727166028/600x200)
 
-#### Web developer 
+👑 I am Web Developer
+🖊️ Love to write code
+🎤 Like to share my knowledge
+
 I’m a Front End Web developer passionate about making error-free websites with 100% client satisfaction. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented, and I always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include React JS, JavaScript as well as PHP.
 
 Habilidades:  REACT / JS / HTML / CSS / PHP / NODE JS
@@ -9,8 +12,15 @@ Habilidades:  REACT / JS / HTML / CSS / PHP / NODE JS
 - 🔭 Estoy trabajando en Up Company  
 - 🌱 Estoy aprendiendo node js 
 - 👯 Quiero colaborar con GitHub  
-- 💬 Pregúntame acerca de we development  
+- 💬 Pregúntame acerca de we development
 
+✅ WordPress
+✅ JavaScript
+✅ PHP
+✅ HTML5 / CSS3 / SASS / Bootstrap
+✅ Photoshop / Illustrator
+
+  https://camo.githubusercontent.com/a70a478bf4af2b2a5356f306aad0e4fb71a3c480b244934078e04c1415674497/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d73686f766f616c77617973266c61796f75743d636f6d70616374
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Mohamed-Shamim)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/login/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100094078832357)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/shamihpv?igsh=YzljYTk1ODg3Zg==/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/@CodewithShami)  
 
