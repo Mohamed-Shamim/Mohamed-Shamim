@@ -14,13 +14,15 @@ Habilidades:  REACT / JS / HTML / CSS / PHP / NODE JS
 - 👯 Quiero colaborar con GitHub  
 - 💬 Pregúntame acerca de we development
 
-✅ WordPress
-✅ JavaScript
-✅ PHP
-✅ HTML5 / CSS3 / SASS / Bootstrap
-✅ Photoshop / Illustrator
+##👨‍💻 Skills & Experiance:
+  <hr/>
+✅ WordPress <br/>
+✅ JavaScript <br/>
+✅ PHP<br/>
+✅ HTML5 / CSS3 / SASS / Bootstrap<br/>
+✅ Photoshop / Illustrator<br/>
 
-  https://camo.githubusercontent.com/a70a478bf4af2b2a5356f306aad0e4fb71a3c480b244934078e04c1415674497/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d73686f766f616c77617973266c61796f75743d636f6d70616374
+ 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Mohamed-Shamim)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/login/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100094078832357)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/shamihpv?igsh=YzljYTk1ODg3Zg==/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/@CodewithShami)  
 
