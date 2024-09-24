@@ -19,26 +19,11 @@ Habilidades:  REACT / JS / HTML / CSS / PHP / NODE JS
 ✅ WordPress <br/>
 ✅ JavaScript <br/>
 ✅ PHP<br/>
-✅ HTML5 / CSS3 / SASS / Bootstrap<br/><br/>✅ Node js
+✅ Node js<br/>
+✅ HTML5 / CSS3 / SASS / Bootstrap<br/><br/>
 
 
 ### 📧 For Business Inquiries
 ✅ ► shamimhasan019sm@gmail.com
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/Mohamed-Shamim)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Mohamed-Shamim)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Mohamed-Shamim&show_icons=true&count_private=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/Mohamed-Shamim/contributions?format=svg&private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/Mohamed-Shamim)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/Mohamed-Shamim)  
-
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/Mohamed-Shamim)  
 
 
