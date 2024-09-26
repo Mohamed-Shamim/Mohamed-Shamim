@@ -24,6 +24,6 @@ Habilidades:  react js / Javascript / HTML / CSS / PHP / Node js
 
 
 ### 📧 For Business Inquiries
-✅ ► shamimhasan019sm@gmail.com
+✅ ► mohamedshamimx@gmail.com
 
 
