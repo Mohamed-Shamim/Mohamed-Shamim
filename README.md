@@ -8,7 +8,7 @@
 ### 🚀 About Me<br/>
 I’m a Front End Web developer passionate about making error-free websites with 100% client satisfaction. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented, and I always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include React JS, JavaScript as well as PHP.
 
-Habilidades:  react js / Javascript / HTML / CSS / PHP / Node js
+Habilidades:  react js / Javascript / HTML / CSS / tailwind css / Node js / Express js 
 
 - 🔭 Estoy trabajando en Up Company  
 - 🌱 Estoy aprendiendo node js 
@@ -16,14 +16,16 @@ Habilidades:  react js / Javascript / HTML / CSS / PHP / Node js
 - 💬 Pregúntame acerca de we development
 
 ### 👨‍💻 Skills & Experiance:<br/>
-✅ WordPress <br/>
+✅ React js / Next js 15 <br/>
 ✅ JavaScript <br/>
-✅ PHP<br/>
-✅ Node js<br/>
-✅ HTML5 / CSS3 / SASS / Bootstrap<br/><br/>
+✅ WordPress<br/>
+✅ Node js<br/> 
+✅ Express js<br/>
+✅ HTML5 / CSS3 / Tailwind CSS<br/><br/>
 
 
 ### 📧 For Business Inquiries
 ✅ ► mohamedshamimx@gmail.com
+
 
 
