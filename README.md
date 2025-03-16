@@ -1,7 +1,7 @@
 ### Hi, I'm Mohamed Shamim 👋
 ![Web developer ](https://yt3.googleusercontent.com/RWvUr-gbx3uy1WCHHi9Tnl3VY9fECztFcY2v47ijcyprJkuYa-N4icHcBZolgsBaRTPoFKex2OY=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 
-👑 I am Web Developer<br/>
+👑 I'm Web Developer<br/>
 🖊️ Love to write code<br/>
 🎤 Like to share my knowledge<br/>
 
@@ -26,6 +26,3 @@ Habilidades:  react js / Javascript / HTML / CSS / tailwind css / Node js / Expr
 
 ### 📧 For Business Inquiries
 ✅ ► mohamedshamimx@gmail.com
-
-
-
