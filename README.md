@@ -8,14 +8,14 @@
 ### 🚀 About Me<br/>
 I’m a Full stack Web developer passionate about making error-free websites with 100% client satisfaction.I specialize in turning design concepts into clean, performant, and user-friendly interfaces using modern front-end technologies.
 
-### Tech Stack & Skills :
+### 🔧 Tech Stack & Skills :
 
-#### Core Technologies: HTML5, CSS3, JavaScript (ES6+)<br/>
-Frameworks & Libraries: React.js, Next.js, TypeScript, Redux Toolkit<br/>
-Styling: Tailwind CSS, SCSS, Bootstrap<br/>
-Animations: Framer Motion, GSAP (GreenSock Animation Platform)<br/>
-Version Control: Git & GitHub<br/>
-Others: UI/UX Design, Responsive Design, Cross-Browser Compatibility
+##### Core Technologies: HTML5, CSS3, JavaScript (ES6+)<br/>
+##### Frameworks & Libraries: React.js, Next.js, TypeScript, Redux Toolkit<br/>
+##### Styling: Tailwind CSS, SCSS, Bootstrap<br/>
+##### Animations: Framer Motion, GSAP (GreenSock Animation Platform)<br/>
+##### Version Control: Git & GitHub<br/>
+##### Others: UI/UX Design, Responsive Design, Cross-Browser Compatibility
 ----------------------------------------------------
 
 Habilidades:  react js / Javascript / HTML / CSS / tailwind css / Node js / Express js 
