@@ -10,13 +10,13 @@ I’m a Full stack Web developer passionate about making error-free websites wit
 
 Tech Stack & Skills :
 
-Core Technologies: HTML5, CSS3, JavaScript (ES6+)
-Frameworks & Libraries: React.js, Next.js, TypeScript, Redux Toolkit
-Styling: Tailwind CSS, SCSS, Bootstrap
-Animations: Framer Motion, GSAP (GreenSock Animation Platform)
-Version Control: Git & GitHub
+Core Technologies: HTML5, CSS3, JavaScript (ES6+)<br/>
+Frameworks & Libraries: React.js, Next.js, TypeScript, Redux Toolkit<br/>
+Styling: Tailwind CSS, SCSS, Bootstrap<br/>
+Animations: Framer Motion, GSAP (GreenSock Animation Platform)<br/>
+Version Control: Git & GitHub<br/>
 Others: UI/UX Design, Responsive Design, Cross-Browser Compatibility
-
+----------------------------------------------------
 
 Habilidades:  react js / Javascript / HTML / CSS / tailwind css / Node js / Express js 
 
