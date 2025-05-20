@@ -6,7 +6,17 @@
 🎤 Like to share my knowledge<br/>
 
 ### 🚀 About Me<br/>
-I’m a Front End Web developer passionate about making error-free websites with 100% client satisfaction. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented, and I always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include React JS, JavaScript as well as PHP.
+I’m a Full stack Web developer passionate about making error-free websites with 100% client satisfaction.I specialize in turning design concepts into clean, performant, and user-friendly interfaces using modern front-end technologies.
+
+Tech Stack & Skills :
+
+Core Technologies: HTML5, CSS3, JavaScript (ES6+)
+Frameworks & Libraries: React.js, Next.js, TypeScript, Redux Toolkit
+Styling: Tailwind CSS, SCSS, Bootstrap
+Animations: Framer Motion, GSAP (GreenSock Animation Platform)
+Version Control: Git & GitHub
+Others: UI/UX Design, Responsive Design, Cross-Browser Compatibility
+
 
 Habilidades:  react js / Javascript / HTML / CSS / tailwind css / Node js / Express js 
 
@@ -18,9 +28,10 @@ Habilidades:  react js / Javascript / HTML / CSS / tailwind css / Node js / Expr
 ### 👨‍💻 Skills & Experiance:<br/>
 ✅ React js / Next js 15 <br/>
 ✅ JavaScript <br/>
-✅ WordPress<br/>
+✅ Typescript<br/>
 ✅ Node js<br/> 
 ✅ Express js<br/>
+✅ mongodb<br/>
 ✅ HTML5 / CSS3 / Tailwind CSS<br/><br/>
 
 
