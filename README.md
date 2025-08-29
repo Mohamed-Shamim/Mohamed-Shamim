@@ -5,6 +5,8 @@
 🖊️ Love to write code<br/>
 🎤 Like to share my knowledge<br/>
 
+###Full Stack Web Developer | React.js, Node.js, ThreeJS & API Expert
+
 ### 🚀 About Me<br/>
 I’m a Full Stack Web Developer with expertise in React.js, Node.js, Three.js, and API integrations. Passionate about building dynamic, scalable, and user-friendly applications that combine performance with great design. Always eager to learn, innovate, and deliver impactful solutions.
 
@@ -26,10 +28,10 @@ I’m a Full Stack Web Developer with expertise in React.js, Node.js, Three.js, 
 
 Habilidades:  react js / Javascript / three js / HTML / CSS / tailwind css / Node js / Express js 
 
-- 🔭 Estoy trabajando en Up Company  
-- 🌱 Estoy aprendiendo node js 
-- 👯 Quiero colaborar con GitHub  
-- 💬 Pregúntame acerca de we development
+🔭 Estoy trabajando en Up Company  
+🌱 Estoy aprendiendo node js 
+👯 Quiero colaborar con GitHub  
+💬 Pregúntame acerca de we development
 
 ### 👨‍💻 Skills & Experiance:<br/>
 ✅ React / Next js 15 <br/>
