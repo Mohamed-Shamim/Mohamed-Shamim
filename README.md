@@ -6,13 +6,13 @@
 🎤 Like to share my knowledge<br/>
 
 ### 🚀 About Me<br/>
-I’m a Full stack Web developer passionate about making error-free websites with 100% client satisfaction.I specialize in turning design concepts into clean, performant, and user-friendly interfaces using modern front-end technologies.
+I’m a Full Stack Web Developer with expertise in React.js, Node.js, Three.js, and API integrations. Passionate about building dynamic, scalable, and user-friendly applications that combine performance with great design. Always eager to learn, innovate, and deliver impactful solutions.
 
 🌱 I’m currently learning **Python**
 
 👨‍💻 All of my projects are available at [https://shamimdev.onrender.com/](https://shamimdev.onrender.com/)
 
-- 💬 Ask me about **React, three js,**
+💬 Ask me about **React, three js,**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
