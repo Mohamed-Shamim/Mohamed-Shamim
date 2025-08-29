@@ -8,9 +8,9 @@
 ### 🚀 About Me<br/>
 I’m a Full stack Web developer passionate about making error-free websites with 100% client satisfaction.I specialize in turning design concepts into clean, performant, and user-friendly interfaces using modern front-end technologies.
 
-- 🌱 I’m currently learning **Python**
+🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://shamimdev.onrender.com/](https://shamimdev.onrender.com/)
+👨‍💻 All of my projects are available at [https://shamimdev.onrender.com/](https://shamimdev.onrender.com/)
 
 - 💬 Ask me about **React, three js,**
 
@@ -24,7 +24,7 @@ I’m a Full stack Web developer passionate about making error-free websites wit
 
 ----------------------------------------------------
 
-Habilidades:  react js / Javascript / HTML / CSS / tailwind css / Node js / Express js 
+Habilidades:  react js / Javascript / three js / HTML / CSS / tailwind css / Node js / Express js 
 
 - 🔭 Estoy trabajando en Up Company  
 - 🌱 Estoy aprendiendo node js 
@@ -32,8 +32,8 @@ Habilidades:  react js / Javascript / HTML / CSS / tailwind css / Node js / Expr
 - 💬 Pregúntame acerca de we development
 
 ### 👨‍💻 Skills & Experiance:<br/>
-✅ React js / Next js 15 <br/>
-✅ JavaScript <br/>
+✅ React / Next js 15 <br/>
+✅ JavaScript / Three js <br/>
 ✅ Typescript<br/>
 ✅ Node js<br/> 
 ✅ Express js<br/>
